@@ -1,3 +1,6 @@
+# Context API
+The Context API is a React structure that allows you to share specific data from all levels of your application. It helps to solve prop-drilling, which is the problem of passing data through multiple components that do not need it.
+
 # GitHub Codespaces ♥️ React
 
 Welcome to your shiny new Codespace running React! We've got everything fired up and running for you to explore React.
