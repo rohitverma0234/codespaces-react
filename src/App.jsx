@@ -2,6 +2,7 @@ import './App.css';
 import Provider from './Components/ContextAPI/context/Provider';
 import ChildA from './Components/PropDrilling/ChildA';
 import UseRef from './Components/UseRef';
+import Provider1 from './Components/useContextHook/Provider1';
 
 function App() {
 
@@ -13,6 +14,8 @@ function App() {
       <ChildA/>
 
       <Provider/>
+      
+      <Provider1/>
     </div>
   );
 }
