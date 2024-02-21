@@ -4,7 +4,7 @@ import ChildB from './ChildB'
 const ChildA = () => {
   return (
     <div>
-        <ChildB/>     
+        <ChildB/>
     </div>
   )
 }
