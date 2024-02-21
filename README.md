@@ -1,3 +1,9 @@
+# UseRef Hook
+<ul>
+  <li>It can be used to store a mutable value that does not cause a re-render when updated.</li>
+<li>It can be used to access a DOM element directly.</li>
+</ul>
+
 # GitHub Codespaces ♥️ React
 
 Welcome to your shiny new Codespace running React! We've got everything fired up and running for you to explore React.
