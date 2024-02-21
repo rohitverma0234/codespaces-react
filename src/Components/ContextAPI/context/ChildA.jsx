@@ -9,4 +9,4 @@ const ChildA = () => {
   )
 }
 
-export default ChildA
+export default ChildA;

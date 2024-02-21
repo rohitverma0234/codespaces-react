@@ -13,4 +13,4 @@ const Provider = () => {
 }
 
 export default Provider
-export {data};
+export {data}
