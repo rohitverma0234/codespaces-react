@@ -1,3 +1,10 @@
+# PropDrilling
+<ul>
+  <li>Prop drilling is a technique used in React to pass data from a parent component down to its child components via props</li>
+  <li>This can create a long chain of component dependencies that can be difficult to manage and maintain.</li>
+</ul>
+
+
 # GitHub Codespaces ♥️ React
 
 Welcome to your shiny new Codespace running React! We've got everything fired up and running for you to explore React.
